@@ -1,5 +1,5 @@
 """
-Get Profile Picture FB
+Get picture in Reg
 """
 from setuptools import find_packages, setup
 
@@ -12,7 +12,7 @@ setup(
     license='BSD',
     author='Kittisak Maneewong',
     author_email='kittisak.ma.59@ubu.ac.th',
-    description='Get Profile Picture FB',
+    description='Get picture in Reg',
     long_description=__doc__,
     packages=find_packages(exclude=['tests']),
     include_package_data=True,

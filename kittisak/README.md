@@ -1,6 +1,6 @@
-# Get Profile Picture FB
+# Get pictrue in Reg
 
-Get Profile Picture FB
+Get picture in Reg
 
 
 # Installation
